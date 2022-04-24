@@ -1,0 +1,17 @@
+{
+  "name": "capstone_one",
+  "version": "1.0.0",
+  "description": "Capstone Project for SideHustle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "SideHustle Group 10",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

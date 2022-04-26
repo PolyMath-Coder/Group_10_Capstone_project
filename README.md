@@ -1,8 +1,6 @@
 # Team 10 Sidehustle Capstone Project (NodeJS Track).
 
-A simple NodeJS server powered with the `http` module.
-
-To run on your local machine,
+To run app on your local machine,
 
 - Clone the repository.
 

@@ -1,5 +1,5 @@
 {
-  "name": "Group 10 CapstoneProject 1",
+  "name": "Group 10 SideHustle Capstone Project 1",
   "version": "1.0.0",
   "description": "Capstone Project for SideHustle",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start:dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "SideHustle Group 10",
+  "author": "Ayooluwa Adeleke",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
